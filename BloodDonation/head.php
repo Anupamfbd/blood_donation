@@ -8,7 +8,7 @@
   /* overflow:hidden; */
   background-color: #333;
   width:100%;
-  height: 80px;
+  min-height: 80px;
   padding: 10px 5px;
   color:#FF0404  ;
 }
@@ -48,7 +48,7 @@
 }
 
 /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 710px) {
   .header a {
     float: none;
     display: block;

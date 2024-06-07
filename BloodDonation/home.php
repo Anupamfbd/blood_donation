@@ -26,7 +26,6 @@
   ?>
 
 </div>
-<?php include'ticker.php'; ?>
 
   <div id="page-container" style="margin-top:50px; position: relative;min-height: 84vh;   ">
     <div class="container">
@@ -42,7 +41,7 @@
     <!-- The slideshow -->
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="image\blood-donation-be-a-saviour.jpg" alt="image\blood-donation-be-a-saviour.jpg" width="100%" height="500">
+        <img src="image\slider_img.png" alt="image\slider_img.png" width="100%" height="500">
       </div>
       <div class="carousel-item">
         <img src="image\bloodonate.jpg" alt="image\bloodonate.jpg" width="100%" height="500">
