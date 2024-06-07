@@ -60,8 +60,8 @@ include 'sidebar.php'; ?>
         <div class="col-md-12">
           <div class="row">
             <div class="col-md-3">
-              <div class="panel panel-default panel-info" style="border-radius:50px;">
-                <div class="panel-body panel-info bk-primary text-light" style="background-color:#D6EAF8; border-radius:50px">
+              <div class="panel panel-default panel-info" style="border-radius:10px;">
+                <div class="panel-body panel-info bk-primary text-light" style="background-color:#D6EAF8; border-radius:10px">
                   <div class="stat-panel text-center">
                     <?php
                       $sql =" SELECT * from donor_details ";
@@ -86,8 +86,8 @@ include 'sidebar.php'; ?>
             </div>
 
             <div class="col-md-3">
-              <div class="panel panel-default panel-info" style="border-radius:50px;">
-                <div class="panel-body panel-info bk-primary text-light" style="background-color:#ABEBC6;border-radius:50px;">
+              <div class="panel panel-default panel-info" style="border-radius:10px;">
+                <div class="panel-body panel-info bk-primary text-light" style="background-color:#ABEBC6;border-radius:10px;">
                   <div class="stat-panel text-center">
                     <?php
                       $sql1 =" SELECT * from contact_query ";
@@ -110,8 +110,8 @@ include 'sidebar.php'; ?>
             </div>
 
             <div class="col-md-3">
-              <div class="panel panel-default panel-info" style="border-radius:50px;">
-                <div class="panel-body panel-info bk-primary text-light" style="background-color:#E8DAEF ;border-radius:50px; ">
+              <div class="panel panel-default panel-info" style="border-radius:10px;">
+                <div class="panel-body panel-info bk-primary text-light" style="background-color:#E8DAEF ;border-radius:10px; ">
                   <div class="stat-panel text-center">
                     <?php
                       $sql2 ="SELECT * from contact_query where query_status=2 ";

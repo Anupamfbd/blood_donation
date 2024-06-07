@@ -20,9 +20,10 @@
 
 <body style="background-color:#D2E7E1">
 <div class="header">
-<?php
-$active="home";
-include('head.php'); ?>
+  <?php
+  $active="home";
+  include('head.php'); 
+  ?>
 
 </div>
 <?php include'ticker.php'; ?>

@@ -54,7 +54,7 @@
 </head>
 <body>
 <div class="news blue">
-<span style="background-color:#F60F0F;width:130px;height:46px;border-radius:5px">Latest Updates</span><span class="text1" ><marquee>First blood donation camp to be organised in New Delhi in collabration with Blood Bank & Donation Management System on <b>25/12/2023 at Community Centre PLA.</b></marquee></span>
+<span style="background-color:#F60F0F;width:130px;height:46px;border-radius:5px">Latest Updates</span><span class="text1" >First blood donation camp to be organised in New Delhi in collabration with Blood Bank & Donation</span>
 </div>
 </body>
 </head>

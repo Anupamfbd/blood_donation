@@ -94,7 +94,7 @@ include 'conn.php';
                   <td ><?php echo $row['page_type']; ?></td>
                   <td id="example" style="text-align:left"><div style="width:100%; max-height:110px; overflow:auto"><?php echo $row['page_data']; ?></div></td>
                     <td id="he" style="width:100px;">
-                    <a style="background-color:aqua" href='update_page_details.php?type=<?php echo $row['page_type'];?>'> <span class="glyphicon glyphicon-edit"></span></a>
+                    <a href='update_page_details.php?type=<?php echo $row['page_type'];?>'> <span class="glyphicon glyphicon-edit"></span></a>
                 </td>
               </tr>
             <?php } ?>

@@ -98,7 +98,7 @@ include 'conn.php';
                     <td><?php echo $row['blood_group']; ?></td>
                     <td><?php echo $row['donor_address']; ?></td>
                     <td id="he" style="width:100px">
-                    <a style="background-color:aqua" href='delete.php?id=<?php echo $row['donor_id']; ?>'> Delete </a>
+                    <a  class="btn btn-danger" href='delete.php?id=<?php echo $row['donor_id']; ?>'> Delete </a>
                 </td>
               </tr>
             <?php } ?>
