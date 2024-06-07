@@ -1,12 +1,8 @@
-Install XAMPP or WAMPP.
+Install XAMPP.
 
-Open XAMPP Control panal and start [apache] and [mysql] .
+Open XAMPP Control panal and start apache and mysql .
 
 Download project 
-
-OR follow gitbash commands
-
-   ii>git clone link
 
 Extract files in C:\xampp\htdocs.
 
